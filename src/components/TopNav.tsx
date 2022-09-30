@@ -11,7 +11,6 @@ export const TopNav = () => {
     <Stack
       direction={"row"}
       style={{
-        backgroundColor: "skyblue",
         justifyContent: "flex-end",
         paddingTop: 16,
         paddingBottom: 16,
